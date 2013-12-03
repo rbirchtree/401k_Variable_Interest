@@ -1,0 +1,1 @@
+This is a simple program that calculates how much your 401k could be worth based on three inputs: years, initial amount, and interest rate. The interest rate is asked for three times, this value is then used randomly by the program to create market variability. 
